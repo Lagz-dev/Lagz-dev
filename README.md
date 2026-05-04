@@ -1,7 +1,7 @@
 <h1 align="center"> Olá, eu sou o Luiz</h1>
 
 <p align="center">
-  💻 Desenvolvedor Front-End | HTML • CSS • JavaScript <br>
+  💻 Desenvolvedor Front-End | HTML • CSS • JavaScript • UI/UX dev<br>
   🚀 Explorando Back-End com Python, SQL e MongoDB <br>
   🎯 Focado em criar interfaces modernas e experiências limpas
 </p>
