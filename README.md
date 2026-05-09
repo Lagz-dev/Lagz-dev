@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Desenvolvedor Front-End | HTML • CSS • JavaScript • UI/UX dev<br>
-  🚀 Explorando Back-End com Python, SQL e MongoDB <br>
+  🚀 Explorando Back-End com Python, SQL + MongoDB e Java + SpringBoot <br>
   🎯 Focado em criar interfaces modernas e experiências limpas
 </p>
 
