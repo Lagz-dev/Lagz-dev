@@ -5,7 +5,7 @@
 <h1 align="center"> Olá, eu sou o Luiz</h1>
 
 <p align="center">
-  💻 Desenvolvedor Full-Stack| HTML • CSS • JavaScript • Python • SQL<br>
+  💻 Desenvolvedor Full-Stack: HTML • CSS • JavaScript • Python • SQL<br>
   🚀 Estudando Back-End com Python + Flask • SQL + MongoDB • Java + SpringBoot <br>
   🎯 Focado em criar interfaces modernas e experiências limpas e bancos de dados
 </p>
