@@ -1,19 +1,22 @@
-<h3 align="center">Um desenvolvedor frontend apaixonado da Índia</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lagz-dev&label=Profile%20views&color=0e75b6&style=flat" alt="lagz-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lagz-dev" alt="lagz-dev" /></a> </p>
+<h1 align="center"> Olá, eu sou o Luiz</h1>
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://dev.to/lagz dev" target="blank"><img align="center" <a href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lagz dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/luiz guilherme gonzaga de amorim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luiz guilherme gonzaga de amorim" height="30" width="40" /></a>
-<a href="https://instagram.com/luiz_guilherm3_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luiz_guilherm3_" height="30" width="40" /></a>
+<p align="center">
+  💻 Desenvolvedor Front-End | HTML • CSS • JavaScript • UI/UX dev<br>
+  🚀 Explorando Back-End com Python, SQL + MongoDB e Java + SpringBoot <br>
+  🎯 Focado em criar interfaces modernas e experiências limpas
 </p>
 
-<h3 align="left">Idiomas e Ferramentas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40"
+  
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img height="180em" src="https://github-readme-stats-wpxr.vercel.app/api?username=Lagz-dev&show_icons=true&hide_border=true&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&bg_color=0d0b14" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lagz-dev&show_icons=true&locale=en&layout=compact" alt="lagz-dev" /></p> <p>
+  <img height="180em" src="https://github-readme-stats-wpxr.vercel.app/api/top-langs/?username=Lagz-dev&layout=compact&hide_border=true&title_color=7c3aed&text_color=c9d1d9&bg_color=0d0b14" />
+</div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lagz-dev&show_icons=true&locale=en" alt="lagz-dev" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
